@@ -1,0 +1,10 @@
+C:\Users\bolga\source\repos\Lab_13\Lab_13\obj\Debug\Lab_13.csprojAssemblyReference.cache
+C:\Users\bolga\source\repos\Lab_13\Lab_13\obj\Debug\Lab_13.Form1.resources
+C:\Users\bolga\source\repos\Lab_13\Lab_13\obj\Debug\Lab_13.Properties.Resources.resources
+C:\Users\bolga\source\repos\Lab_13\Lab_13\obj\Debug\Lab_13.csproj.GenerateResource.cache
+C:\Users\bolga\source\repos\Lab_13\Lab_13\obj\Debug\Lab_13.csproj.CoreCompileInputs.cache
+C:\Users\bolga\source\repos\Lab_13\Lab_13\bin\Debug\Lab_13.exe.config
+C:\Users\bolga\source\repos\Lab_13\Lab_13\bin\Debug\Lab_13.exe
+C:\Users\bolga\source\repos\Lab_13\Lab_13\bin\Debug\Lab_13.pdb
+C:\Users\bolga\source\repos\Lab_13\Lab_13\obj\Debug\Lab_13.exe
+C:\Users\bolga\source\repos\Lab_13\Lab_13\obj\Debug\Lab_13.pdb
